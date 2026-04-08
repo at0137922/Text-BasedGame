@@ -92,5 +92,20 @@ Escape may succeed or fail.
 If escape fails, the enemy attacks the player
 
 
+Puzzle System
+
+While exploring, the player may encounter puzzles that must be solved to obtain resources.
+
+Types of Puzzles:
+
+Simple math or question-based puzzles
+Hidden object challenges
+
+How it Works:
+
+The player is prompted with a puzzle.
+Correct answer rewards the player with resources sometimes it would not give rewards.
+if player give incorrect answers, the game allow several attemps to be made.
+
 --Assumptions
 
