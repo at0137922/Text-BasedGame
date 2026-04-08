@@ -41,13 +41,27 @@ Load Game
 Help
 Exit
 
-Option Details:
-
 Start New Game: Begins a new game session. The player starts from the beginning with no resources.
 Load Game: Loads a previously saved game and continues progress.
 Help: Displays instructions about objectives, gameplay, and how to win.
 Exit: Closes the game.
 
+
+🎮 Game Menu
+
+After starting the game, the player can interact using the Game Menu:
+
+Explore Location
+View Inventory
+Craft Boat
+Save Game
+Return to Main Menu
+
+Explore Location: Allows the player to explore areas such as Forest, Cave, Beach, and Shipwreck to collect resources, encounter enemies, and solve puzzles.
+View Inventory: Displays collected resources.
+Craft Boat: Allows the player to craft a boat if all required materials are collected.
+Save Game: Saves current progress for later use.
+Return to Main Menu: Takes the player back to the Main Menu.
 
 
 --Assumptions
