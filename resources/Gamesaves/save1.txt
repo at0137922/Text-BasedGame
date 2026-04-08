@@ -1,0 +1,4 @@
+health=73
+location=Beach
+Makeshift Sword=1
+Metal=1
