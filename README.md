@@ -30,20 +30,25 @@ when you collect all these materials, you can craft the boat and escape the isla
 6. Run the game using: java Main
 
 
+📋 Game Menus & Instructions
+
+🏠 Main Menu
+
+When the game starts, the player is presented with the following options:
+
+Start New Game
+Load Game
+Help
+Exit
+
+Option Details:
+
+Start New Game: Begins a new game session. The player starts from the beginning with no resources.
+Load Game: Loads a previously saved game and continues progress.
+Help: Displays instructions about objectives, gameplay, and how to win.
+Exit: Closes the game.
 
 
---INSTRUCTIONS--
-There are two Menu screens exist for the player(Main Menu, and Gmae Menu).
-In the Main Menu, there are four options availibile for player to choose. Four options are as folows.
-| 1. Start New Game |
-| 2. Load Game      |
-| 3. Help           |
-| 4. Exit           |
-
-Player needs to enter the the numebr 1 in the console so that the game can run and starts.
-Player can choose 2 then game will direct the player to load screen. similarly if player enter 3, it will direct the player to the Help screen menu which player can get some idea what needs be done in order to win the game.   
-
---Explain the game menu and each option when user select and explain how solve puzzle and attack with enemy.
 
 --Assumptions
 
