@@ -64,5 +64,33 @@ Save Game: Saves current progress for later use.
 Return to Main Menu: Takes the player back to the Main Menu.
 
 
+⚔️ Combat System
+
+Enemies may appear randomly during exploration.
+
+Player Choices:
+
+Attack
+Defend
+Run
+
+Attack:
+
+Player deals damage to the enemy.
+If the player has a weapon, damage is higher.
+The enemy also attacks back.
+The fight continues until the enemy is defeated or the player loses.
+
+Defend:
+
+only enemy attacks the player and player loses health.
+
+Run:
+
+Player attempts to escape from the enemy.
+Escape may succeed or fail.
+If escape fails, the enemy attacks the player
+
+
 --Assumptions
 
